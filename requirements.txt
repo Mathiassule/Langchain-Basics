@@ -1,0 +1,14 @@
+# Core LangChain Framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+
+# OpenAI API Client
+openai>=1.40.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Interactive Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.29.0
